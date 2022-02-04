@@ -11,7 +11,7 @@ Nick changer in game/chat with GUI
 
 
 
-Link to cloudburstmc article -> [CloudburstMC](https://cloudburstmc.org/resources/kitsui.782/)
+Link to cloudburstmc article -> [CloudburstMC](https://cloudburstmc.org/resources/nickchangergui.783/)
 
 # Examples of NickUI
 
